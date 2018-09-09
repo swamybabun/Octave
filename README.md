@@ -23,9 +23,9 @@ Installing Octave in Mac OS High Sierra. Please run below commands. Which instal
 ## Commands
 
 
-who - displays all current variables
+**who** - displays all current variables
 
-which -> shows the variable details
+**which** -> shows the variable details
 
 
 Loading the file
@@ -33,7 +33,7 @@ Loading the file
     data = load('ex1data1.txt')
     
     
-pwd -> Shows the present working directory
+**pwd** -> Shows the present working directory
 
 
-quit/exit -> to terminate from the octave window.
+**quit**/**exit** -> to terminate from the octave window.
